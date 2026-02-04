@@ -15,7 +15,6 @@ Unreal Engine 5
 
 ## Controls
 - W- Forward Drive
-- S- Reverse
+- S- Reverse/Slow Down
 - A- Left turn
 - D- Right turn
-- Space – Brake
